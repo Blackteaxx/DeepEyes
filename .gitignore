@@ -1,3 +1,13 @@
+# Runtime files
+nohup.out
+*.pid
+
+# Checkpoints (large)
+verl_checkpoints/
+
+# Experiment results
+results/
+
 
 **/*.pt
 **/checkpoints

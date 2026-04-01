@@ -36,7 +36,7 @@ if args.eval_model_name is None:
 else:
     eval_model_name = args.eval_model_name
 
-hrbench_path = args.vstar_bench_path
+hrbench_path = args.hrbench_path
 result_root_path = args.save_path
 result_root_path = os.path.join(result_root_path, args.model_name)
 
