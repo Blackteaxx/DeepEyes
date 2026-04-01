@@ -6,7 +6,6 @@ nohup.out
 verl_checkpoints/
 
 # Experiment results
-results/
 
 
 **/*.pt
