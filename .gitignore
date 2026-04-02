@@ -6,7 +6,7 @@ nohup.out
 verl_checkpoints/
 
 # Experiment results
-
+results/HR-Bench/
 
 **/*.pt
 **/checkpoints
